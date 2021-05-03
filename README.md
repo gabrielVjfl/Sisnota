@@ -7,19 +7,19 @@ A aplicação é um sistema de notas de alunos, onde é possível inlcuir e alte
 
 
 ## Layout web
-![Web 1](https://github.com/gabrielVjfl/Sisnota/blob/main/src/assets/tela1.png)
-![Web 2](https://github.com/gabrielVjfl/Sisnota/blob/main/src/assets/tela3.png)
-![Web 3](https://github.com/gabrielVjfl/Sisnota/blob/main/src/assets/tela4.png)
-![Web 4](https://github.com/gabrielVjfl/Sisnota/blob/main/src/assets/tela5.png)
-![Web 5](https://github.com/gabrielVjfl/Sisnota/blob/main/src/assets/tela8.png)
-![Web 6](https://github.com/gabrielVjfl/Sisnota/blob/main/src/assets/tela9.png)
-![Web 7](https://github.com/gabrielVjfl/Sisnota/blob/main/src/assets/tela10.png)
-![Web 7](https://github.com/gabrielVjfl/Sisnota/blob/main/src/assets/tela11.png)
+![Web 1](https://github.com/gabrielVjfl/Sisnota/blob/main/web/src/assets/tela1.png)
+![Web 2](https://github.com/gabrielVjfl/Sisnota/blob/main/web/src/assets/tela3.png)
+![Web 3](https://github.com/gabrielVjfl/Sisnota/blob/main/web/src/assets/tela4.png)
+![Web 4](https://github.com/gabrielVjfl/Sisnota/blob/main/web/src/assets/tela5.png)
+![Web 5](https://github.com/gabrielVjfl/Sisnota/blob/main/web/src/assets/tela8.png)
+![Web 6](https://github.com/gabrielVjfl/Sisnota/blob/main/web/src/assets/tela9.png)
+![Web 7](https://github.com/gabrielVjfl/Sisnota/blob/main/web/src/assets/tela10.png)
+![Web 7](https://github.com/gabrielVjfl/Sisnota/blob/main/web/src/assets/tela11.png)
 
 ## Layout mobile
-![Mobile 1](https://github.com/gabrielVjfl/Sisnota/blob/main/src/assets/tela2.png)
-![Mobile 2](https://github.com/gabrielVjfl/Sisnota/blob/main/src/assets/tela6.png)
-![Mobile 3](https://github.com/gabrielVjfl/Sisnota/blob/main/src/assets/tela7.png)
+![Mobile 1](https://github.com/gabrielVjfl/Sisnota/blob/main/web/src/assets/tela2.png)
+![Mobile 2](https://github.com/gabrielVjfl/Sisnota/blob/main/web/src/assets/tela6.png)
+![Mobile 3](https://github.com/gabrielVjfl/Sisnota/blob/main/web/src/assets/tela7.png)
 
 <h4 align="center"> 
 	 Sistema Sisnota🚀 Concluído 
